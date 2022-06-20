@@ -44,11 +44,10 @@ It is a bundle of different extensions and plugins for Bevy game engine, conserv
 * **[bevy_datasize](https://github.com/BGR360/bevy_datasize)** - A library for tracking memory usage
 * **[post_processing](https://github.com/bevyengine/bevy/blob/main/examples/shader/post_processing.rs)** - Official Bevy Post-Processing example
 * **[bevy_doryen](https://github.com/alexschrod/bevy_doryen)** - A plugin that integrates the Doryen roguelike library with Bevy
-
-* **[bevy_asset_ron](https://crates.io/crates/bevy_asset_ron)** -
-* **[bevy_hanabi](https://crates.io/crates/bevy_hanabi)** -
-* **[bevy_loading](https://crates.io/crates/bevy_loading)** / **[iyes_progress](https://crates.io/crates/iyes_progress)** -
-* **[bevy_framepace](https://crates.io/crates/bevy_framepace)** -
-* **[bevy_proto](https://github.com/MrGVSV/bevy_proto)** - 
-* **[bevy-ui-navigation](https://crates.io/crates/bevy-ui-navigation)** - 
-* **[bevy_tweening](https://crates.io/crates/bevy_tweening)** -
+* **[bevy_asset_ron](https://crates.io/crates/bevy_asset_ron)** - Custom RON assets for Bevy
+* **[bevy_hanabi](https://crates.io/crates/bevy_hanabi)** - Hanabi GPU particle system
+* **[bevy_loading](https://crates.io/crates/bevy_loading)** / **[iyes_progress](https://crates.io/crates/iyes_progress)** - A plugin to help implement loading states
+* **[bevy_framepace](https://crates.io/crates/bevy_framepace)** - Frame pacing and frame limiting
+* **[bevy_proto](https://github.com/MrGVSV/bevy_proto)** - Create entities in the Bevy game engine with a simple config file
+* **[bevy-ui-navigation](https://crates.io/crates/bevy-ui-navigation)** - A plugin to implement UI navigation
+* **[bevy_tweening](https://crates.io/crates/bevy_tweening)** - Tweening animation plugin
